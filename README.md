@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3 align="center">A passionate fullstack developer from India.</h3>
 <h3 align="center">I code in Javascript, Angular, Nodejs</h3>
-<h3 align="center">Currently learning Golang</h3>
 
 - 💬 Ask me about **Angular**
 
